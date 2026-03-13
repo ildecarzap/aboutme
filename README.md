@@ -2,7 +2,7 @@
 
 Soy **Ildemaro Carrasco**, Backend developer - Tech Lead.
 
-Trabajo en el diseño y desarrollo de soluciones tecnológicas, con foco en sistemas distribuidos y APIs. Actualmente lidero un equipo de desarrollo en una empresa de [rubro/industria], donde trabajamos en la evolución y mantenimiento de productos digitales.
+Trabajo en el diseño y desarrollo de soluciones tecnológicas, con foco en sistemas distribuidos y APIs. Actualmente lidero un equipo de desarrollo en una empresa, donde trabajamos en la evolución y mantenimiento de productos digitales.
 
 ---
 
